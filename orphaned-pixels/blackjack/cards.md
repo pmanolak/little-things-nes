@@ -19,6 +19,11 @@ Different games rank the suits differently.  Rolls of coins outrank
 coins in Chinese suits and Big Two, whereas diamonds outrank clubs in
 Bridge bidding.
 
+"*Super Mario RPG* and the Mystery of the [Fifth Card Suit]" by Drew
+Mackie likens German suits to *Animal Crossing* and points out two
+video games for Nintendo platforms that use the star as a fifth suit,
+tracing it to a symbol appearing on jokers.
+
 Ranks of suit cards
 -------------------
 
@@ -60,7 +65,7 @@ queen, king, and fool as two parents and their three children.
 I have named three of them: the jack is Jack, the fool is Jess
 (short for either Jessica or jester), and the queen is Madge
 (short for Margaret or majesty).  Kroc Camen (`@kroc@mstdn.social`)
-[recommended][Kroc toot] "Roy" for the king.
+[suggested][Kroc toot] "Roy" for the king.
 
 Further research options for cardguys:
 
@@ -68,4 +73,5 @@ Further research options for cardguys:
 - Draw Jill, a Minchiate maid
 - Draw a set of 21 trumps
 
+[Fifth Card Suit]: https://www.thrillingtalesofoldvideogames.com/blog/super-mario-rpg-geno-star-suit
 [Kroc toot]: https://mstdn.social/@kroc/109819915955897182
